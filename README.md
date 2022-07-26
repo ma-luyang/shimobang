@@ -2,5 +2,5 @@
 
 ```mermaid
 flowchart LR
-    A[Hard edge] -->|Link text| B(Round edge)
+    A[开始] -->|Link text| B(Round edge)
 ```
