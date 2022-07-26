@@ -2,8 +2,8 @@
 
 ```mermaid
 flowchart LR
-    A[Hard edge] -->|Link text| B(Round edge);
-    B --> C{Decision};
-    C -->|One| D[Result one];
-    C -->|Two| E[Result two];
+    A[START] -->|后台人员录入| B(划转ID、源通行证、目标通行证、转账金额);
+    B --> C{是否为“待审核”};
+    C -->|否| D[END];
+    C -->|是| E[Result two];
 ```
