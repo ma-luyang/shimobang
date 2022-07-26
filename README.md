@@ -27,5 +27,5 @@ flowchart TB
     M -->|是|N[发送报警邮件];
     N -->|是|Z[结束];
     
-    style X fill:#f9f,stroke:#333,stroke-width:2px
+    style X fill:#FF0000,stroke:#333,stroke-width:2px
 ```
