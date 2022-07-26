@@ -2,5 +2,5 @@
 
 ```mermaid
 flowchart LR
-    A[开始] -->|后台录入| B(Round edge)
+    A[开始] -->|后台录入| B(划转ID 源通行证 目标通行证 转账金额 )
 ```
