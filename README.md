@@ -28,8 +28,8 @@ flowchart TB
     N -->|是|Z((结束));
     
     style X fill:#FF0000,stroke:#FFFFFF,stroke-width:2px
-    style F fill:#bbf,stroke:#f66,stroke-width:2px,color:#fff,stroke-dasharray: 5 5
-    style G fill:#bbf,stroke:#f66,stroke-width:2px,color:#fff,stroke-dasharray: 5 5
-    style H fill:#bbf,stroke:#f66,stroke-width:2px,color:#fff,stroke-dasharray: 5 5
+    style F fill:#f9f,stroke:#333,stroke-width:4px
+    style G fill:#f9f,stroke:#333,stroke-width:4px
+    style H fill:#f9f,stroke:#333,stroke-width:4px
     
 ```
