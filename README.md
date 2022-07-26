@@ -2,5 +2,5 @@
 
 ```mermaid
 flowchart LR
-    A[开始] -->|Link text| B(Round edge)
+    A[开始] -->|后台录入| B(Round edge)
 ```
