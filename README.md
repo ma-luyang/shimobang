@@ -1,6 +1,9 @@
 #  测试项目
 
 ```mermaid
-flowchart TD
-    A[开始]-->|手动录入|B(划转ID、源通行证、目标通行证、转账金额);
+flowchart LR
+    A[Hard edge] -->|Link text| B(Round edge);
+    B --> C{Decision};
+    C -->|One| D[Result one];
+    C -->|Two| E[Result two];
 ```
