@@ -8,7 +8,7 @@
 
 <details>
   <summary>什么是tinper</summary>
-
+</details>
 
 ```mermaid
 flowchart TB
@@ -43,7 +43,4 @@ flowchart TB
     style H fill:#f9f,stroke:#333,stroke-width:4px
     
 ```
-
-</details>
-
 
